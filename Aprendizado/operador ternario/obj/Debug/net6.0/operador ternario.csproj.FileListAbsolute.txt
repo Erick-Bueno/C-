@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\bin\Debug\net6.0\operador ternario.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\bin\Debug\net6.0\operador ternario.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\bin\Debug\net6.0\operador ternario.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\bin\Debug\net6.0\operador ternario.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\bin\Debug\net6.0\operador ternario.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\refint\operador ternario.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\operador ternario.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\operador ternario\obj\Debug\net6.0\ref\operador ternario.dll

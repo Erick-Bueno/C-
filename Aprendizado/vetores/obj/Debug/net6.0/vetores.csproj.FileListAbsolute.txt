@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\bin\Debug\net6.0\vetores.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\bin\Debug\net6.0\vetores.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\bin\Debug\net6.0\vetores.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\bin\Debug\net6.0\vetores.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\bin\Debug\net6.0\vetores.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\refint\vetores.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\vetores.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\vetores\obj\Debug\net6.0\ref\vetores.dll

@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\bin\Debug\net6.0\metodos de array.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\bin\Debug\net6.0\metodos de array.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\bin\Debug\net6.0\metodos de array.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\bin\Debug\net6.0\metodos de array.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\bin\Debug\net6.0\metodos de array.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\refint\metodos de array.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\metodos de array.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodos de array\obj\Debug\net6.0\ref\metodos de array.dll

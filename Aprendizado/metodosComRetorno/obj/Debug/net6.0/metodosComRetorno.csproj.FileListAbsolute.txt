@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\bin\Debug\net6.0\metodosComRetorno.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\bin\Debug\net6.0\metodosComRetorno.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\bin\Debug\net6.0\metodosComRetorno.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\bin\Debug\net6.0\metodosComRetorno.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\bin\Debug\net6.0\metodosComRetorno.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\refint\metodosComRetorno.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\metodosComRetorno.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\metodosComRetorno\obj\Debug\net6.0\ref\metodosComRetorno.dll

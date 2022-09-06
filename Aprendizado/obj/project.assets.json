@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\projeto\\projeto.csproj",
-      "projectName": "projeto",
-      "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\projeto\\projeto.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\Aprendizado\\Aprendizado.csproj",
+      "projectName": "Aprendizado",
+      "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\Aprendizado\\Aprendizado.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\projeto\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\Aprendizado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"

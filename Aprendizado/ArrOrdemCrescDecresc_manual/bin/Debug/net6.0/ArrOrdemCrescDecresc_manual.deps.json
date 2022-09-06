@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrOrdemCrescDecresc_manual/1.0.0": {
+        "runtime": {
+          "ArrOrdemCrescDecresc_manual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrOrdemCrescDecresc_manual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

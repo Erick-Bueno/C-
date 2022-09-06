@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "contador, incremento, decrementos/1.0.0": {
+        "runtime": {
+          "contador, incremento, decrementos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contador, incremento, decrementos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

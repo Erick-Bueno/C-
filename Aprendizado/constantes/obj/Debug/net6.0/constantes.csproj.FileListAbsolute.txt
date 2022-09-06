@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\bin\Debug\net6.0\constantes.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\bin\Debug\net6.0\constantes.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\bin\Debug\net6.0\constantes.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\bin\Debug\net6.0\constantes.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\bin\Debug\net6.0\constantes.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\refint\constantes.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\constantes.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\constantes\obj\Debug\net6.0\ref\constantes.dll

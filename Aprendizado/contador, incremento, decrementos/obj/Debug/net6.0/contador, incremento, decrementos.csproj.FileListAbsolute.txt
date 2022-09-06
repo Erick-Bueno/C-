@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\bin\Debug\net6.0\contador, incremento, decrementos.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\bin\Debug\net6.0\contador, incremento, decrementos.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\bin\Debug\net6.0\contador, incremento, decrementos.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\bin\Debug\net6.0\contador, incremento, decrementos.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\bin\Debug\net6.0\contador, incremento, decrementos.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\refint\contador, incremento, decrementos.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\contador, incremento, decrementos.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\contador, incremento, decrementos\obj\Debug\net6.0\ref\contador, incremento, decrementos.dll

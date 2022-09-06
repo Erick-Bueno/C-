@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\bin\Debug\net6.0\ArrOrdemCrescDecresc_manual.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\bin\Debug\net6.0\ArrOrdemCrescDecresc_manual.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\bin\Debug\net6.0\ArrOrdemCrescDecresc_manual.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\bin\Debug\net6.0\ArrOrdemCrescDecresc_manual.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\bin\Debug\net6.0\ArrOrdemCrescDecresc_manual.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\refint\ArrOrdemCrescDecresc_manual.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ArrOrdemCrescDecresc_manual.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\ArrOrdemCrescDecresc_manual\obj\Debug\net6.0\ref\ArrOrdemCrescDecresc_manual.dll
