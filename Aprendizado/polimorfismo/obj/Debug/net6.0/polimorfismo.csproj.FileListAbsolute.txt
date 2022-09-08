@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\bin\Debug\net6.0\polimorfismo.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\bin\Debug\net6.0\polimorfismo.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\bin\Debug\net6.0\polimorfismo.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\bin\Debug\net6.0\polimorfismo.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\bin\Debug\net6.0\polimorfismo.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\refint\polimorfismo.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\polimorfismo.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\Aprendizado\polimorfismo\obj\Debug\net6.0\ref\polimorfismo.dll
